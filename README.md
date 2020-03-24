@@ -1,2 +1,4 @@
 # git-github
-this is starting
+Hello every one this is parth 
+this is my first repos
+
